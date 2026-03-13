@@ -28,6 +28,17 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyengiaquang/nguyengiaquang/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyengiaquang/nguyengiaquang/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xirothedev/xirothedev/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
 ## 🤝 Where to find me
 
 <div align="center">
@@ -40,17 +51,6 @@
   <a href="https://discord.com/users/674484185523814465">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</div>
-
----
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyengiaquang/nguyengiaquang/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyengiaquang/nguyengiaquang/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xirothedev/xirothedev/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
